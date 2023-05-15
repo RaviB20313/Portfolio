@@ -1,0 +1,64 @@
+
+.home_css{
+    margin: auto;
+    text-align: center;
+
+}
+.p1 {
+    font-size: 20px;
+}
+.p2{
+    font-size: 25px;
+}
+.profilepic{
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 100%;
+
+}
+#about {
+    margin: auto;
+    width: 50%;
+}
+#projects{
+    margin: auto;
+    width: 50%;
+}
+#contacts {
+    margin: auto;
+    width: 50%;
+}
+.contact-form{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+
+/* footer  */
+.siteFooterBar{
+    /* bottom: 0; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    box-shadow: 0px 0px 25px rgb(207, 207, 207);
+    height: 55px;
+    color: #9B9B9B;
+    background: #F3F3F3;
+    text-align: center;
+}
+
+.content {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    font: 25px Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    width: 100%;
+}
+
+
+
